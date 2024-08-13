@@ -1,0 +1,34 @@
+.nuestro-enfoque{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.group__title {
+    font-size: 2em;
+    padding: 0;
+}
+.nuestro-enfoque .container__flex{
+    align-items: flex-start;
+}
+.nuestro-enfoque__title{
+    font-size: 1.5em;
+    font-family: "oswald";
+    margin-bottom: 5px;
+}
+.nuestro-enfoque__img{
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 20px
+}
+.nuestro-enfoque__txt{
+    padding: 10px;
+}
+.group--color .container {
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: #4F8B9F;
+}
